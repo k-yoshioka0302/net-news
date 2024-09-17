@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <h1>
       Hello, World!
-      tntn
+      tntn^2
     </h1>
   );
 }
